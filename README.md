@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🧑‍🎓 I’m 4th Semester Student at CCIT FTUI<br>🧑‍🎓 I’m 5th Semester Student at Asia e University<br>🌱 I’m Currently Learning Go Language <br>⚡ Love Listen Music and Playing<br><br><br>
+🧑‍🎓 I am a graduate of CCIT FTUI.<br>🧑‍🎓 I’m 6th Semester Student at Asia e University<br>🌱 I’m Currently Learning Go Language <br>⚡ Love Listen Music and Playing<br><br><br>
 
 
 ## 🌐 Socials:
